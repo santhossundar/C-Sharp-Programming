@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSharpProgramming
+﻿namespace CSharpProgramming
 {
-    internal class DataTypes
+    public class DataTypes
     {
-        static void Main(string[] args)
+        public DataTypes()
         {
-            int intNumber = 10; 
+            int intNumber = 10;
             Console.WriteLine(intNumber);
 
             long longNumber = 1234567890;
