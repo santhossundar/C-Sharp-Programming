@@ -7,6 +7,7 @@
             DataTypes dataTypes = new DataTypes();
             ArithmaticOperations arithmaticOperations = new ArithmaticOperations();
             ComparisonOperations comparisonOperations = new ComparisonOperations();
+            LogicalOperators logicalOperators = new LogicalOperators();
         }
     }
 }
