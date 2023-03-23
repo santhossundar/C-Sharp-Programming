@@ -8,6 +8,7 @@
             ArithmaticOperations arithmaticOperations = new ArithmaticOperations();
             ComparisonOperations comparisonOperations = new ComparisonOperations();
             LogicalOperators logicalOperators = new LogicalOperators();
+            Conversions conversions = new Conversions();
         }
     }
 }
