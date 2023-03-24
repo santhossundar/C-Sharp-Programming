@@ -9,6 +9,7 @@
             ComparisonOperations comparisonOperations = new ComparisonOperations();
             LogicalOperators logicalOperators = new LogicalOperators();
             Conversions conversions = new Conversions();
+            UserInputs userInputs = new UserInputs();
         }
     }
 }
